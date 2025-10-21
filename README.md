@@ -1,7 +1,7 @@
 <h1 align="center">👨‍💻 Enrico Garcia</h1>
 
 <p align="center">
-  <a href="[https://www.linkedin.com/in/enrico-garcia](https://www.linkedin.com/in/enrico-garcia-096663233/)" target="_blank">
+  <a href="https://www.linkedin.com/in/enrico-garcia-096663233/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </p>
