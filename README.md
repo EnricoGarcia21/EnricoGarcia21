@@ -1,35 +1,67 @@
-# 👨‍💻 Enrico Garcia
+<h1 align="center">👨‍💻 Enrico Garcia</h1>
 
-Meu nome é **Enrico de Oliveira Garcia**, tenho 20 anos e sou estudante de **Sistemas de Informação na Unoeste**.  
-Sempre fui curioso sobre tecnologia e, ao longo dos anos, essa curiosidade se transformou em uma paixão.  
-Hoje, busco aprimorar meus conhecimentos e habilidades, explorando novas tecnologias e desenvolvendo soluções inovadoras.
+<p align="center">
+  <em>Estudante de Sistemas de Informação na <b>Unoeste</b> | Apaixonado por tecnologia e desenvolvimento web 🚀</em>
+</p>
 
-Atualmente, estou focado em **desenvolvimento web e aplicações**, além de sempre buscar aprender mais sobre **arquitetura de software** e **boas práticas de programação**.
+---
 
-Se quiser trocar ideias ou acompanhar meus projetos, fique à vontade para explorar meu repositório! 🚀
+### 👋 Sobre mim
+
+Sou **Enrico de Oliveira Garcia**, tenho 20 anos e sou apaixonado por tecnologia desde cedo.  
+Atualmente, estudo **Sistemas de Informação na Unoeste** e busco evoluir como **desenvolvedor fullstack**, com foco em **aplicações web modernas**.  
+
+Meu objetivo é criar soluções que facilitem o dia a dia das pessoas, explorando boas práticas, arquitetura de software e novas tecnologias.  
+Gosto de aprender constantemente e transformar ideias em código. 💡
 
 ---
 
 ### 💻 Linguagens e Tecnologias
 
-<img align="left" alt="HTML" title="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
-<img align="left" alt="CSS" title="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
-<img align="left" alt="JavaScript" title="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
-<img align="left" alt="Bootstrap" title="Bootstrap" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" />
-<img align="left" alt="Node.js" title="Node.js" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
-<img align="left" alt="C++" title="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
-<img align="left" alt="Git" title="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
-<img align="left" alt="Java" title="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
+#### 🌐 Front-end
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" alt="Bootstrap" width="40" height="40"/>&nbsp;
+</p>
 
-<br/>
-<br/>
+#### ⚙️ Back-end
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" title="Spring Boot" alt="Spring Boot" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" title="Node.js" alt="Node.js" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;
+</p>
+
+#### 🧰 Ferramentas
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" title="GitHub" alt="GitHub" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" title="VS Code" alt="VS Code" width="40" height="40"/>&nbsp;
+</p>
 
 ---
 
-### 📈 Estatísticas
+### 📊 Estatísticas do GitHub
 
-<img align="left" height="180em" style="padding-right:10px;" src="https://github-readme-stats.vercel.app/api?username=EnricoGarcia21&show_icons=true&theme=tokyonight&include_all_commits=true" />
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EnricoGarcia21&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EnricoGarcia21&layout=compact&langs_count=8&theme=tokyonight"/>
+</p>
 
-<img align="center" height="180em" src="https://github-readme-activity-graph.vercel.app/graph?username=EnricoGarcia21&theme=github-compact" />
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=EnricoGarcia21&theme=dracula" />
+</p>
 
 ---
+
+### 📫 Contato
+
+<p align="center">
+  <a href="mailto:enricogarcia589@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+  <a href="https://www.linkedin.com/in/enrico-garcia" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://github.com/EnricoGarcia21" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+</p>
+
+
