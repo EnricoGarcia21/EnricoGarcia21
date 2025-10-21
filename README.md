@@ -1,7 +1,7 @@
 <h1 align="center">👨‍💻 Enrico Garcia</h1>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/enrico-garcia" target="_blank">
+  <a href="[https://www.linkedin.com/in/enrico-garcia](https://www.linkedin.com/in/enrico-garcia-096663233/)" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </p>
@@ -53,7 +53,7 @@ Gosto de aprender constantemente e transformar ideias em código. 💡
 <div align="center">
   <img 
     height="180em"
-    src="https://github-readme-stats.vercel.app/api?username=EnricoGarcia21&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=false&card_width=400"
+    src="https://github-readme-stats.vercel.app/api?username=EnricoGarcia21&show_icons=true&theme=github-compact&include_all_commits=true&count_private=true&hide_border=false&card_width=400"
   />
 </div>
 
@@ -62,7 +62,7 @@ Gosto de aprender constantemente e transformar ideias em código. 💡
 <div align="center">
   <img 
     height="180em"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=EnricoGarcia21&layout=compact&langs_count=8&theme=tokyonight&hide_border=false&card_width=400"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=EnricoGarcia21&layout=compact&langs_count=8&theme=github-compact&hide_border=false&card_width=400"
   />
 </div>
 
@@ -70,6 +70,6 @@ Gosto de aprender constantemente e transformar ideias em código. 💡
 
 <div align="center">
   <img 
-    src="https://github-readme-activity-graph.vercel.app/graph?username=EnricoGarcia21&theme=dracula&hide_border=false"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=EnricoGarcia21&theme=github-compact&hide_border=false"
   />
 </div>
