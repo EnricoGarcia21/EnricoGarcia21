@@ -53,7 +53,7 @@ Gosto de aprender constantemente e transformar ideias em código. 💡
 <div align="center">
   <img 
     height="180em"
-    src="https://github-readme-stats.vercel.app/api?username=EnricoGarcia21&show_icons=true&theme=github-compact&include_all_commits=true&count_private=true&hide_border=false&card_width=400"
+    src="https://github-readme-stats.vercel.app/api?username=EnricoGarcia21&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=false&card_width=400"
   />
 </div>
 
@@ -62,7 +62,7 @@ Gosto de aprender constantemente e transformar ideias em código. 💡
 <div align="center">
   <img 
     height="180em"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=EnricoGarcia21&layout=compact&langs_count=8&theme=github-compact&hide_border=false&card_width=400"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=EnricoGarcia21&layout=compact&langs_count=8&theme=dark&hide_border=false&card_width=400"
   />
 </div>
 
