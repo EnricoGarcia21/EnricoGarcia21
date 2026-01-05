@@ -18,7 +18,7 @@
 
 ### 👋 Sobre mim
 
-Sou **Enrico de Oliveira Garcia**, tenho **20 anos** e sou apaixonado por tecnologia desde cedo.  
+Sou **Enrico de Oliveira Garcia**, tenho **21 anos** e sou apaixonado por tecnologia desde cedo.  
 Atualmente estudo **Sistemas de Informação na Unoeste** e busco evoluir como **desenvolvedor fullstack**, com foco em **aplicações web modernas**.  
 
 Meu objetivo é criar soluções que facilitem o dia a dia das pessoas, explorando **boas práticas**, **arquitetura de software** e **novas tecnologias**.  
