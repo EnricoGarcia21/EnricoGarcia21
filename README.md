@@ -1,80 +1,81 @@
-<h1 align="center">
-  <a href="https://www.linkedin.com/in/enrico-garcia-096663233/" target="_blank">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=00C853&center=true&vCenter=true&width=450&lines=%F0%9F%96%A5%EF%B8%8F+Enrico+Garcia" alt="Typing SVG"/>
-  </a>
-</h1>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/enrico-garcia-096663233/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-</p>
-
-<p align="center">
-  <em>🎓 Estudante de <b>Sistemas de Informação</b> na <b>Unoeste</b> | 💻 Apaixonado por tecnologia e desenvolvimento web 🚀</em>
-</p>
-
----
-
-### 👋 Sobre mim
-
-Sou **Enrico de Oliveira Garcia**, tenho **21 anos** e sou apaixonado por tecnologia desde cedo.  
-Atualmente estudo **Sistemas de Informação na Unoeste** e busco evoluir como **desenvolvedor fullstack**, com foco em **aplicações web modernas**.  
-
-Meu objetivo é criar soluções que facilitem o dia a dia das pessoas, explorando **boas práticas**, **arquitetura de software** e **novas tecnologias**.  
-Gosto de aprender constantemente e transformar ideias em código. 💡
-
----
-
-### 💻 Linguagens e Tecnologias
-
-#### 🌐 Front-end
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" title="HTML5" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" title="CSS3" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" title="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" title="Next.js" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" title="Tailwind CSS" width="40" height="40"/>&nbsp;
-
-</p>
-
-#### ⚙️ Back-end
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" title="Java" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" title="Spring Boot" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" title="Node.js" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" title="C#" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" title=".NET" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dot-net/dot-net-original.svg" title="ASP.NET" width="40" height="40"/>&nbsp;
-</p>
-
-#### 🧰 Ferramentas
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" title="Git" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" title="GitHub" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" title="VS Code" width="40" height="40"/>&nbsp;
-</p>
-
----
-
-### 📊 Estatísticas do GitHub
-
 <div align="center">
-  <img 
-    height="180em"
-    src="https://github-readme-stats.vercel.app/api?username=EnricoGarcia21&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=false"
-  />
-  <img 
-    height="180em"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=EnricoGarcia21&layout=compact&langs_count=8&theme=dark&hide_border=false"
-  />
+  <h1>👋 Olá, eu sou o Enrico Garcia!</h1>
+
+  <!-- Efeito de Digitação Dinâmico -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00C853&center=true&vCenter=true&width=450&lines=Sistemas+de+Informa%C3%A7%C3%A3o+-+Unoeste;Desenvolvedor+Backend;Java+%2F+Spring+Boot;C%23+%2F+.NET" alt="Typing SVG" />
+  </a>
+
+  <p align="center">
+    <a href="https://www.linkedin.com/in/enrico-garcia-096663233/" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+  </p>
 </div>
 
 ---
 
+### 👤 Sobre mim
+
+Sou estudante de **Sistemas de Informação na Unoeste** e apaixonado por tecnologia. Meu foco principal está no desenvolvimento backend e na construção de aplicações web modernas, seguras e escaláveis. 
+
+Aprecio transformar regras de negócio complexas em código limpo, sempre explorando boas práticas de arquitetura, padrões de projeto e novas tecnologias.
+
+---
+
+### 🛠️ Tecnologias e Ferramentas
+
+**Front-end**
+<div>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+</div>
+
+<br/>
+
+**Back-end**
+<div>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white" alt=".NET" />
+</div>
+
+<br/>
+
+**Ferramentas & Infra**
+<div>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
+</div>
+
+---
+
+### 📊 Estatísticas e Atividade
+
 <div align="center">
   <img 
-    src="https://github-readme-activity-graph.vercel.app/graph?username=EnricoGarcia21&theme=github-compact&hide_border=false"
+    height="180em" 
+    src="https://github-readme-stats.vercel.app/api?username=EnricoGarcia21&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" 
+    alt="GitHub Stats" 
+  />
+  <img 
+    height="180em" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=EnricoGarcia21&layout=compact&langs_count=6&theme=tokyonight&hide_border=true" 
+    alt="Top Languages" 
+  />
+</div>
+
+<br/>
+
+<div align="center">
+  <img 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=EnricoGarcia21&theme=tokyonight&hide_border=true" 
+    alt="Activity Graph" 
   />
 </div>
