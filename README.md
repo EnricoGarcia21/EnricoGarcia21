@@ -56,17 +56,21 @@ Aprecio transformar regras de negócio complexas em código limpo, sempre explor
 
 ---
 
+---
+
 ### 📊 Estatísticas e Atividade
 
 <div align="center">
+  <!-- Estatísticas Gerais usando um mirror estável -->
   <img 
     height="180em" 
-    src="https://github-readme-stats.vercel.app/api?username=EnricoGarcia21&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" 
+    src="https://github-readme-stats-one.vercel.app/api?username=EnricoGarcia21&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" 
     alt="GitHub Stats" 
   />
+  <!-- Linguagens mais usadas usando um mirror estável -->
   <img 
     height="180em" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=EnricoGarcia21&layout=compact&langs_count=6&theme=tokyonight&hide_border=true" 
+    src="https://github-readme-stats-one.vercel.app/api/top-langs/?username=EnricoGarcia21&layout=compact&langs_count=6&theme=tokyonight&hide_border=true" 
     alt="Top Languages" 
   />
 </div>
@@ -74,8 +78,9 @@ Aprecio transformar regras de negócio complexas em código limpo, sempre explor
 <br/>
 
 <div align="center">
+  <!-- Gráfico de commits dos últimos dias -->
   <img 
-    src="https://github-readme-activity-graph.vercel.app/graph?username=EnricoGarcia21&theme=tokyonight&hide_border=true" 
-    alt="Activity Graph" 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=EnricoGarcia21&theme=tokyonight&hide_border=true" 
+    alt="GitHub Streak" 
   />
 </div>
